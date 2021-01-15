@@ -1,0 +1,20 @@
+body {
+    background: #e6e6e6;
+}
+
+.todo-input {
+    width: 510px;
+    height: 62px;
+    padding: 30px 35px;
+    border: none;
+    box-shadow: inset 0 -2px 1px rgba(0,0,0,0.03);
+    margin: 0
+}
+input {
+    outline: none;
+}
+input::placeholder{
+    color: #e6e6e6;
+    font-style: italic;
+    font-size: 24px;
+}

@@ -1,0 +1,19 @@
+.main-body {
+    width: 100%;
+}
+
+.todo-heading {
+    margin: 0 auto;
+    font-size: 70px;
+    width: 510px;
+    color: #ead7d7;
+    text-align: center;
+}
+
+.todo-list {
+    width: 550px;
+    margin: 0 auto;
+}
+.todo {
+    position: relative;
+}
